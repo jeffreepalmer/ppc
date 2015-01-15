@@ -1,10 +1,39 @@
-.wholeShebang{
+body{
+	margin: 0;
+	padding: 0;
+}
+.inline{
+	display: inline-block;
+	vertical-align: top;
+}
+.marPad{
+	margin: 0;
+	padding: 0;
+}
+.container{
 	width: 1000px;
+	margin: 0 auto;
+	padding: 0;
 }
 .header{
 	height: 150px;
 	background-color: gray;
 }
 .main{
+	height: 800px;
 	background-color: black;
+}
+.mainPicAbout{
+	height: 500px;
+	background-color: purple;
+}
+.mainPic{
+	width: 400px;
+	height: 250px;
+	background-color: green;
+}
+.mainAbout{
+	width: 550px;
+	height: 250px;
+	background-color: blue;
 }
