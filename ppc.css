@@ -23,17 +23,23 @@ body{
 	height: 800px;
 	background-color: black;
 }
-.mainPicAbout{
-	height: 500px;
-	background-color: purple;
-}
 .mainPic{
-	width: 400px;
-	height: 250px;
+	width: 377px;
+	height: 255px;
+	margin: 10px;
+	padding: 0;
+	border: white 5px solid;
 	background-color: green;
 }
 .mainAbout{
 	width: 550px;
-	height: 250px;
+	height: 260px;
+	margin: 10px;
 	background-color: blue;
+}
+.smallBox{
+	width: 226px;
+	height: 300px;
+	margin: 10px;
+	background-color: yellow;
 }
